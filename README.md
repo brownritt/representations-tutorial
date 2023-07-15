@@ -52,7 +52,7 @@ conda activate representation_tutorial
 
 If one prefers to make virtual environments and install dependencies from `pip`, there is also a `requirements.txt` file, that contains exact package versions but also some additional software (in the original workshop, dependencies were combined across multiple tutorials by different people, and I have not frozen a version specific to my tutorial).
 
-The tutorial consists of a single Jupyter notebook, `eeg2022_representations.ipynb`, which can be run from within Navigator (be sure to select the correct environment first), or from the command line
+The tutorial consists of a single Jupyter notebook, `eeg_representations.ipynb`, which can be run from within Navigator (be sure to select the correct environment first), or from the command line
 ```
 jupyter notebook
 ```
