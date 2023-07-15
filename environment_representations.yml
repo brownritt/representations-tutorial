@@ -1,0 +1,15 @@
+name: representation_tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - ipympl
+  - mne
+  - jupyter
+  - spyder
